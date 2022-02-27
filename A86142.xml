@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heads of proposals, agreed on by his Excellency Sir Thomas Fairfax, and the Councell of the Armie. Tendred to the commissioners of Parliament residing with the Armie, to be by them presented to the Parliament. Containing their particular desires (in pursuance of their former declarations and papers) in order to the cleering and securing the rights and liberties of this kingdome, in the setling of a just and lasting peace therein; leaving the terms of peace for the kingdome of Scotland, to stand as in the late propositions of both kingdoms, unlesse that kingdome have agreed, or shall agree to any alteration. To which proposalls are added the explanations upon severall particulars therein agreed upon at the late generall Councell of the Army at Putney, on Thursday Septemb. 16. 1647. In answer to certaine queres thereupon made by the commissioners of Parliament residing with the Army. By the appointment of his Excellency Sir Thomas Fairfax, and the Generall Councell of his Armie. Signed, Jo. Rushworth, Secretarie.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86142</idno>
+            <idno type="STC">Wing H1285</idno>
+            <idno type="STC">Thomason E408_8</idno>
+            <idno type="STC">ESTC R202597</idno>
+            <idno type="EEBO-CITATION">99862825</idno>
+            <idno type="PROQUEST">99862825</idno>
+            <idno type="VID">160541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heads of proposals, agreed on by his Excellency Sir Thomas Fairfax, and the Councell of the Armie. Tendred to the commissioners of Parliament residing with the Armie, to be by them presented to the Parliament. Containing their particular desires (in pursuance of their former declarations and papers) in order to the cleering and securing the rights and liberties of this kingdome, in the setling of a just and lasting peace therein; leaving the terms of peace for the kingdome of Scotland, to stand as in the late propositions of both kingdoms, unlesse that kingdome have agreed, or shall agree to any alteration. To which proposalls are added the explanations upon severall particulars therein agreed upon at the late generall Councell of the Army at Putney, on Thursday Septemb. 16. 1647. In answer to certaine queres thereupon made by the commissioners of Parliament residing with the Army. By the appointment of his Excellency Sir Thomas Fairfax, and the Generall Councell of his Armie. Signed, Jo. Rushworth, Secretarie.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the blew Anchor in Cornhill, neere the Royall Exchange.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160541:1" rendition="simple:additions"/>
+            <p>The Heads of PROPOSALS, Agreed on by his Excellency Sir Thomas Fairfax, AND The Councell of the ARMIE. Tendred to the Commiſsioners of Parlia<g ref="char:EOLhyphen"/>ment reſiding with the Armie, to be by them preſented to the PARLIAMENT.</p>
+            <p>CONTAINING Their particular Deſires (in purſuance of their for<g ref="char:EOLhyphen"/>mer Declarations and Papers) in order to the cleering and ſe<g ref="char:EOLhyphen"/>curing the Rights and Liberties of this Kingdome, in the ſetling of a juſt and laſting peace therein; leaving the terms of peace for the King<g ref="char:EOLhyphen"/>dome of Scotland, to ſtand as in the late Propoſitions of both Kingdoms, unleſſe that Kingdome have agreed, or ſhall agree to any alteration.</p>
+            <p>To which Propoſalls are added the explanations upon ſeverall particulars therein agreed upon at the late generall Councell of the Army at Putney, on Thurſday Septemb. 16. 1647.</p>
+            <p>In Anſwer to certaine Queres thereupon made by the Commiſ<g ref="char:EOLhyphen"/>ſioners of Parliament reſiding with the Army.</p>
+            <p>BY the Appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and the Generall Councell of his Armie.</p>
+            <p>Signed, <hi>Io. Ruſhworth,</hi> Secretarie.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>George Whittington,</hi> at the blew Anchor in Cornhill, neere the Royall Exchange. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:160541:2"/>
+            <pb n="3" facs="tcp:160541:2"/>
+            <head>The Heads of PROPOSALLS, Agreed on by his Excellency Sir Thomas Fairfax, And the Councell of the Army.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT (the things hereafter pro<g ref="char:EOLhyphen"/>poſed being provided for by this Parliament) a certain period may (by Act of Parliament) be ſet for the ending of this Parlia<g ref="char:EOLhyphen"/>ment, (ſuch Period to be with<g ref="char:EOLhyphen"/>in a year at moſt,) and in the ſame Act Proviſion to be made for the Succeſſion and Conſtitution of Parliaments in future, as fol<g ref="char:EOLhyphen"/>loweth;</p>
+            <p n="1">1 That Parliaments may Biennially be called, and meet at a certain day, with ſuch proviſion for
+<pb n="2" facs="tcp:160541:3"/>
+the certainty thereof, as in the late Act was made for Trienniall Parliaments, and what further or o<g ref="char:EOLhyphen"/>ther proviſion ſhall be found needful by the Parlia<g ref="char:EOLhyphen"/>ment, to reduce it to more certainty; and upon paſſing of this, the ſaid Act for Trienniall Parlia<g ref="char:EOLhyphen"/>ments to be repealed.</p>
+            <p n="2">2 Each Bienniall Parliament to ſit 120 dayes certain, (unleſſe adjourned, or diſſolved ſooner by their own conſent) afterwards to be adjournable or diſſolveable by the King; and no Parliament to ſit paſt 240 dayes from their firſt meeting, or ſome other number of dayes to be agreed on: upon the expiration whereof, each Parliament to diſſolve of courſe, if not otherwiſe diſſolved ſooner.</p>
+            <p n="3">3 The King upon the advice of the Councell of State in the Intervals betwixt Biennial Parliaments to call a Parliament extraordinary, Provided it meet above Seventy dayes before the next Biennial day, and be diſſolved at leaſt Sixty dayes before the ſame, ſo as the courſe of Bienniall-Elections may never be interrupted.</p>
+            <p n="4">4 That this Parliament and each ſucceeding Bi<g ref="char:EOLhyphen"/>enniall Parliament at, or before adjournment, or diſſolution thereof, may appoint Committees to continue during the Intervall, for ſuch purpoſes as are in any of theſe Propoſals referred to ſuch Committees.</p>
+            <p n="5">5 That the Elections of the Commons for ſuc<g ref="char:EOLhyphen"/>ceeding Parliaments, may be diſtributed to all Counties, or other parts or deviſions of the King<g ref="char:EOLhyphen"/>dome, according to ſome rule of equality or pro<g ref="char:EOLhyphen"/>portion, ſo as all Countries may have a number of
+<pb n="3" facs="tcp:160541:3"/>
+Parliament Members allowed to their choice, pro<g ref="char:EOLhyphen"/>portionable to the reſpective rates they bear in the common charges and burthens of the Kingdome, or according to ſome other rule of equalitie or pro<g ref="char:EOLhyphen"/>portion to render the Houſe of Commons as neer as may be, an equall Repreſentative of the whole; and in order thereunto that a preſent conſideration be had to take off the Elections of Burgeſſes, for poor decayed, or inconſiderable Townes, and to give ſome preſent addition to the number of Parlia<g ref="char:EOLhyphen"/>ment Members for great Counties, that have no leſs then their due proportion, to bring all (at preſent) as neer as may be, to ſuch a rule of proportion as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p n="6">6 That effectuall proviſion be made for future freedome of Elections, and certaintie of due Re<g ref="char:EOLhyphen"/>turnes.</p>
+            <p n="7">7 That the Houſe of Commons alone, have the power from time to time, to ſet down further Or<g ref="char:EOLhyphen"/>ders and Rules for the ends expreſſed in the two laſt preceding Articles, ſo as to reduce the Elections of Members for that Houſe, to more and more per<g ref="char:EOLhyphen"/>fection of equality in the diſtribution, freedome in the Election, order in the proceeding thereto, and certainty in the Returnes, which Orders and Rules in that caſe to be as Lawes.</p>
+            <p n="8">8 That there be a liberty for entering Diſsents in the Houſe of Commons, with proviſion, That no Member be Cenſureable for ought ſaid or Voted in the Houſe, further then to Excluſion from his preſent Truſt in the Houſe, and that only by the judgement of the Houſe it ſelf.</p>
+            <p n="9">
+               <pb n="6" facs="tcp:160541:4"/>
+9. That the Judiciall power, or power of finall Judgement in the Lords and Commons (and their power of Expoſition and Application of Law) (without further appeale) may be cleered: And that no Officer of Juſtice, Miniſter of State, or o<g ref="char:EOLhyphen"/>ther perſon adjudged by them, may be capable of Protection, or Pardon from the King, without their advice and conſent.</p>
+            <p n="10">10. That the Right and Liberty of the Com<g ref="char:EOLhyphen"/>mons of England may be cleared and vindicated, as to a due exemption from any judgement, triall, or other proceeding againſt them by the Houſe of Peeres, without the concurring judgement of the Houſe of Commons, as alſo from any other judge<g ref="char:EOLhyphen"/>ment, ſentence, or proceeding againſt them, other then by their equalls, or according to the Law of the Land.</p>
+            <p n="11">11. The ſame Act to provide that Grand Jury<g ref="char:EOLhyphen"/>men may be choſen by and for ſeverall parts or Di<g ref="char:EOLhyphen"/>viſions of each Countie reſpectively, in ſome e<g ref="char:EOLhyphen"/>quall way, and not remaine (as now) at the diſcre<g ref="char:EOLhyphen"/>tion of an Under-Sheriffe to be put on or off: and that ſuch Grand Jurie-men, for their reſpective Counties, may at each Aſſize preſent the names of perſons to be made Juſtices of the peace from time to time, as the Countrey hath need for any to bee added to the Commiſſion, and at the Summer Aſ<g ref="char:EOLhyphen"/>ſize to preſent the names of three perſons, out of whom the King may prick one to be Sheriffe for the next yeare.</p>
+            <p n="2">2. For future ſecuritie to Parliaments and the <hi>Militia</hi> in generall in order thereunto, that
+<pb n="7" facs="tcp:160541:4"/>
+it be provided by Act of Parliament:</p>
+            <p n="1">1. That the power of the <hi>Militia</hi> by Sea and Land, during the ſpace of ten yeares next enſuing, ſhall be ordered and diſpoſed by the Lords and Commons Aſſembled, and to be Aſſembled in the Parliament of England, or by ſuch perſons as they ſhall nominate and appoint for that purpoſe, from time to time, during the ſaid ſpace.</p>
+            <p n="2">2. That the ſaid power ſhall not be ordered, diſ<g ref="char:EOLhyphen"/>poſed, or exerciſed by the King, or by any perſon or perſons by any authoritie derived from him, du<g ref="char:EOLhyphen"/>ring the ſaid ſpace, or at any time hereafter by his Majeſtie that now is, without the advice and con<g ref="char:EOLhyphen"/>ſent of the ſaid Lords and Commons, or of ſuch Committees or Counſell in the Intervalls of Par<g ref="char:EOLhyphen"/>liament<g ref="char:punc">▪</g> as they ſhall appoint.</p>
+            <p n="3">3. That during the ſame ſpace of ten yeares, the ſaid Lords and Commons may by Bill or Ordi<g ref="char:EOLhyphen"/>nance raiſe and diſpoſe of what moneyes, and for what Forces they ſhall from time to time find neceſ<g ref="char:EOLhyphen"/>ſary, as alſo for the payment of the publike debts and dammages, and for all other the publike uſes of the Kingdome.</p>
+            <p n="4">4. And to the end the temporary ſecurity in<g ref="char:EOLhyphen"/>tended by the three particulars laſt precedent, may be the better aſſured, it may therefore be provided,</p>
+            <p>That no Subjects that have been in hoſtility a<g ref="char:EOLhyphen"/>gainſt the Parliament in the late warre ſhall be ca<g ref="char:EOLhyphen"/>pable of bearing any office of power or publike truſt in the Common-wealth, during the ſpace of five yeares, without conſent of Parliament, or the Counſell of State, or to ſit as Members or Aſſi<g ref="char:EOLhyphen"/>ſtants
+<pb n="6" facs="tcp:160541:5"/>
+of either Houſe of Parliament, untill the ſe<g ref="char:EOLhyphen"/>cond Bienmall Parliament be paſt.</p>
+            <p n="3">3. For the preſent forme of diſpoſing the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> in order to the peace and ſafety of this Kingdome, and the ſervice of Ireland.</p>
+            <p n="1">1. That there be Commiſſioners for the Admi<g ref="char:EOLhyphen"/>raltie, with a Vice-Admirall and Rere-Admirall, now to be agreed on, with power for the forming, regulating, appointing of Officers, and providing for the Navie, and for ordering the ſame to and in the ordinary ſervice of the Kingdome, and that there be a ſufficient proviſion and eſtabliſhment for pay and maintenance thereof.</p>
+            <p n="2">2. That there be a Generall for Command of the Land-forces that are to be in pay both in England, Ireland and Wales, both for Field and Garriſon.</p>
+            <p n="3">3. That there be Commiſſioners in the ſeverall Counties for the ſtanding <hi>Militia</hi> of the reſpective Counties, conſiſtſting of Trained Bands, and Aux<g ref="char:EOLhyphen"/>iliaries not in pay, with power for the proportion<g ref="char:EOLhyphen"/>ing, forming, regulating, training and diſciplining of them.</p>
+            <p n="4">4. That there be a Councel of State, with power to ſuperintend and direct the ſeverall and particular powers of the Militia laſt mentioned, for the peace and ſafety of this Kingdome, and of Ireland.</p>
+            <p n="5">5. That the ſame Councell may have power as the Kings Privy Councell, for, and in all Forraigne Negotiations; Provided, That the making of War or Peace with any other Kingdome or State, ſhall not be without the advice and conſent of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <pb n="7" facs="tcp:160541:5"/>
+That the ſaid power of the Councell of State be put into the hands of Truſtees and able Perſons now to be agreed on, and the ſame perſons to continue in that power <hi>ſi bene ſe geſſerint</hi> for a certaine terme not exceeding ſeven years.</p>
+            <p n="6">6 That there be a ſufficient eſtabliſhment now pro<g ref="char:EOLhyphen"/>vided for the ſalarie forces both in <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> the eſtabliſhment to continue untill two moneths after the meeting of the firſt Bienniall Parliament.</p>
+            <p>That an act be paſſed for diſpoſing the great offices for ten years by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, or by ſuch Committees as they ſhall appoint for that purpoſe in the Intervals, with ſubmiſſion to the approbation of the next Parliament, and after ten years, they to nominate three, and the King out of that number to appoint one for the ſucceſſion, upon any vacancie.</p>
+            <p n="5">5. That an act be paſſed for reſtraining of any Peers made ſince the 21. of May 1642. or to be here<g ref="char:EOLhyphen"/>after made from having any power to ſit or vote in Parliament without conſent of both Houſes.</p>
+            <p n="6">6. That an act be paſſed for recalling and making void all Declarations and other Proceedings againſt the Parliament, or againſt any that have acted by, or under their authoritie in the late warre, or in rela<g ref="char:EOLhyphen"/>tion to it; And that the Ordinances for indempnity may be confirmed.</p>
+            <p n="7">7. That an Act be paſſed for making void all Grants, &amp;c. under the Great Seale, that was con<g ref="char:EOLhyphen"/>veyed away from the Parliament ſince the time that it was ſo conveyed away (except as in the Pro<g ref="char:EOLhyphen"/>poſitions of both Kingdomes,) and for making thoſe
+<pb n="8" facs="tcp:160541:6"/>
+valid, that have been or ſhall be paſſed under the Great Seale, made by the authority of both Houſes of Parliament.</p>
+            <p n="8">8. That an act be paſſed for confirmation of the Treaties between the two Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> and for appointing Conſervators of the Peace betwixt them.</p>
+            <p n="9">9. That the Ordinance for taking away the Courts of Wards and Liveries be confirmed by act of Parliament, Provided his Majeſties Revenues be not damnified therein, nor thoſe that laſt held offices in the ſame, left without reparation ſome other way.</p>
+            <p n="10">10 An act to declare void the ceſſation of <hi>Ireland,</hi> &amp;c. And to leave the Proſecution of that warre to the Lords and Commons in the Parliament of <hi>England.</hi>
+            </p>
+            <p n="11">11 An act to be paſſed to take away all Power, authoritie and juriſdiction of Biſhops, and all other Eccleſiaſticall Officers whatſoever extending to any Civill penalties upon any; And to repeale all Laws whereby the Civill Magiſtracie hath been, or is bound, upon any Eccleſiaſtical Cenſure to proceed <hi>(Exofficio)</hi> unto any Civill penalties againſt any perſon ſo cenſured.</p>
+            <p n="12">12. That there be a repeale of all Acts, or clauſes in any Act enjoyning the uſe of the book of Common Prayer, and impoſing any penalties for neglect there<g ref="char:EOLhyphen"/>of, as alſo of all acts or clauſes in any act impoſing any penaltie for not comming to Church, or for meetings elſe-where, for Prayer, or other Religious duties, Exerciſes or Ordinances, and ſome other Proviſion to be made for diſcovering of Papiſts and Popiſh Re<g ref="char:EOLhyphen"/>cuſants,
+<pb n="9" facs="tcp:160541:6"/>
+and for ditabling of them, and of all Jeſuits, and Prieſts, from diſturbing the State.</p>
+            <p n="13">13 That the taking of the Covenant be not in<g ref="char:EOLhyphen"/>forced upon any, nor any penalties impoſed upon the refuſers, whereby men might be conſtrained to take it againſt their Judgements or conſciences, but all Orders or Ordinances to that purpoſe to be re<g ref="char:EOLhyphen"/>pealed.</p>
+            <p n="14">14. That (the things here before purpoſed, being provided for ſetling and ſecuring the Rights, Li<g ref="char:EOLhyphen"/>berties, Peace and ſafety of the Kingdome) his Ma<g ref="char:EOLhyphen"/>jeſties Perſon, his Queen, and Royall iſſue, may be re<g ref="char:EOLhyphen"/>ſtored to a condition of ſafetie, honour and free<g ref="char:EOLhyphen"/>dome in this Nation, without diminution to their perſonall Rights, or further limitation to the Exerciſe of the Regall power, then according to the Particu<g ref="char:EOLhyphen"/>lars afore-going.</p>
+            <p n="15">15. For the matter of Compoſitions.</p>
+            <p n="1">1 That a leſſe number out of the perſons excepted in the two firſt qualifications, in the propoſitions of both Kingdomes, not exceeding five for the Engliſh being nominated particularly by the Parliament, who together with the perſons in the Iriſh rebellion inclu<g ref="char:EOLhyphen"/>ded in the third qualification, may be reſerved to the further judgement of the Parliament as they ſhall find cauſe, all other excepted perſons may be remit<g ref="char:EOLhyphen"/>ted from the Exception and admitted to Compoſi<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2 That the rates for future Compoſitions may be leſſened and limited not to exceed the ſeveral pro<g ref="char:EOLhyphen"/>portions hereafter expreſſed reſpectively; that is to ſay,</p>
+            <p n="1">1. For all perſons formerly excepted, not above a third part.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:160541:7"/>
+2. For the late members of Parliament under the firſt Branch of the fourth Qualification, in the Pro<g ref="char:EOLhyphen"/>poſition a fourth part.</p>
+            <p n="3">3. For other Members of Parliament in the ſe<g ref="char:EOLhyphen"/>cond and third Branches of the ſame Qualification, a ſixt part.</p>
+            <p n="4">4. For the perſons nominated in the ſaid fourth Qualification, and thoſe included in the tenth Qua<g ref="char:EOLhyphen"/>lification an eight part.</p>
+            <p n="5">5. For all others included in the ſixt qualification a tenth part</p>
+            <p n="2">2. And that reall debts either upon Record, or proved by witneſſes be conſidered and abated in the valuation of their eſtates in all the caſes aforeſaid.</p>
+            <p n="3">3. That thoſe who ſhall hereafter come to com<g ref="char:EOLhyphen"/>pound, may not have the Covenant put upon them, as a condition without which they may not com<g ref="char:EOLhyphen"/>pound, but in caſe they ſhall not willingly take it they may paſſe their compoſition without it.</p>
+            <p n="4">4. That the perſons and eſtates of all Engliſh, not worth 200 li. in Lands or Goods be at Libertie and diſcharged. And that the Kings meniall ſervants that never took up Armes, but only attended his perſon according to their Offices, may be freed from compoſition, or to pay at moſt but the pro<g ref="char:EOLhyphen"/>portion of one years revenue, or a twentieth part.</p>
+            <p n="5">5. That in order to the making and perfecting of Compoſitions at the rates aforeſaid, the rents, reve<g ref="char:EOLhyphen"/>nues, and other dues, and profits of all ſequeſtred e<g ref="char:EOLhyphen"/>ſtates whatſoever (except the eſtates of ſuch per<g ref="char:EOLhyphen"/>ſons who ſhall be continued under exception as be<g ref="char:EOLhyphen"/>fore) be from henceforth ſuſpended and detained in
+<pb n="11" facs="tcp:160541:7"/>
+the hands of the reſpective Tenants, Occupants, and others from whom they are due, for the ſpace of ſix months following.</p>
+            <p n="6">6 That the faith of the Army, or other forces of the Parliament, given in Articles upon ſurrenders to any of the Kings Party may be fully made good, and where any breach thereof ſhall appeare to have been made, full reparation and ſatisfaction may be given to the parties injured; and the perſons offending (being found out) may be compelled thereto.</p>
+            <p>That there may be a generall act of Oblivion to extend unto all (except the Perſons to be continued in Exception as before) to abſolve from all Treſpaſ<g ref="char:EOLhyphen"/>ſes, miſdemeanors, &amp;c done in proſecution of the warre, and from all trouble or prejudice for or con<g ref="char:EOLhyphen"/>cerning the ſame, (after their compoſitions paſt,) and to reſtore them to all Priviledges, &amp;c. belonging to other ſubjects provided as in the fourth particular, under the ſecond generall Head aforegoing concer<g ref="char:EOLhyphen"/>ning ſecuritie.</p>
+            <closer>
+               <dateline>
+                  <hi>Putney,</hi> 
+                  <date>16. <hi>Sept.</hi> 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>By the appointment of his Excellency Sir</hi> Tho. Fair<g ref="char:EOLhyphen"/>fax <hi>and the general Coun<g ref="char:EOLhyphen"/>cel of the Army.</hi> John Ruſhworth <hi>Secret.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="explanation">
+            <pb n="12" facs="tcp:160541:8"/>
+            <head>The <hi>Explanation</hi> or <hi>Declarations</hi> of the ſence of his Excellency and the generall Councel of the Army upon ſeverall particulars in the Propoſals aforegoing, in anſwer to certain Queres therupon made by the Com<g ref="char:EOLhyphen"/>miſſioners of Parliament reſiding with the Army, agreed upon at the ge<g ref="char:EOLhyphen"/>neral Councel held at <hi>Putney</hi> on Thurſday, <hi>Sept.</hi> 16. 1647.</head>
+            <div n="1" type="explanation">
+               <head>1. <hi>
+                     <g ref="char:V">Ʋ</g>pon the firſt generall Head.</hi>
+               </head>
+               <p>TO the Quere concerning the time of Com<g ref="char:EOLhyphen"/>mencement of the yeere within which a period to this Parliament is deſired.</p>
+               <p>The Explanation was thought fit to be ſuſpended untill it ſhould appear what expedition will be made in the ſettlement of the things propoſed.</p>
+            </div>
+            <div n="2" type="explanation">
+               <head>2. <hi>Vpon the firſt particular under the firſt general Head.</hi>
+               </head>
+               <p>To the Quere [Whether not rather Trienniall Parliaments and the Act for that purpoſe to be con<g ref="char:EOLhyphen"/>tinued with ſupplemental additions according to the effect of the particulars contained under this general Head.</p>
+               <div type="resolution">
+                  <head>Reſol.</head>
+                  <p>That as to the circumſtance of time we are ſatisfied with either Biennial or Triennial Parliaments, provi<g ref="char:EOLhyphen"/>ded, That (in caſe Triennials be preferr'd) there be a proportionable addition to the time for the certainty of their ſitting to, viz. to be (at leaſt) for ſix or eight months.</p>
+               </div>
+            </div>
+            <div n="3" type="explanation">
+               <head>3. <hi>
+                     <g ref="char:V">Ʋ</g>pon the ſecond particular under the firſt general Head.</hi>
+               </head>
+               <pb n="13" facs="tcp:160541:8"/>
+               <p>To the Quere concerning the prejudice of laying a limitation upon Parliaments not to ſit paſt 240. dayes.</p>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>That that limitation is to be underſtood with this exception, <hi>viz.</hi> unleſſe any Parliament ſhall finde it neceſſary for the ſafety of the Kingdom to ſit longer, but ſtill with this proviſo, That each Parliament ſhall diſſolve of courſe at leaſt 80. dayes before the next Biennial or Triennial if not otherwiſe diſſolved ſoo<g ref="char:EOLhyphen"/>ner, ſo as that courſe of New Elections may never be interrupted.</p>
+               </div>
+            </div>
+            <div n="4" type="explanation">
+               <head>4. <hi>
+                     <g ref="char:V">Ʋ</g>pon the eighth particular under the firſt general Head.</hi>
+               </head>
+               <p>To the Quere concerning the prejudice to Parliament freedom which this particular might induce.</p>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>That the liberty of entring diſſents is not deſired but in caſe where the major vote may be to the de<g ref="char:EOLhyphen"/>ſtruction or prejudice of the Common Right or Li<g ref="char:EOLhyphen"/>berty of the Subject.</p>
+               </div>
+            </div>
+            <div n="5" type="explanation">
+               <head>5 <hi>Vpon the firſt particular under the ſecond general Head,</hi> viz. <hi>concerning the Militia.</hi>
+               </head>
+               <p>To the Quere concerning whats ment by the pow<g ref="char:EOLhyphen"/>er of the Militia.</p>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>That by theſe words [the power of the Militia] is meant the power of raiſing, arming, &amp;c. according to the expreſſions uſed in the Propoſition of both Kingdoms concerning the Militia.</p>
+               </div>
+            </div>
+            <div n="6" type="explanation">
+               <head>6. <hi>Vpon the third particular under the ſame Head.</hi>
+               </head>
+               <p>To the Quere concerning the expreſſing of that power of raiſing and diſpoſing moneys by both Houſes.</p>
+               <div type="resolution">
+                  <pb n="14" facs="tcp:160541:9"/>
+                  <head>Reſolved.</head>
+                  <p>That we are well ſatisfied in the expreſſions there<g ref="char:EOLhyphen"/>of uſed in the Propoſitions of both Kingdoms con<g ref="char:EOLhyphen"/>cerning that matter.</p>
+               </div>
+            </div>
+            <div n="7" type="explanation">
+               <head>7 <hi>Vpon the fourth general Head.</hi>
+               </head>
+               <p>To the Quere, what great Officers are meant.</p>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>The ſame that are named in the Propoſition of both Kingdoms, together with the office of High-Admiral, or Commiſſioners for the Admiral.</p>
+               </div>
+            </div>
+            <div n="8" type="explanation">
+               <head>8. <hi>Vpon the</hi> 14 <hi>Head concerning the King.</hi>
+               </head>
+               <p>To the firſt Quere concerning the extent of theſe words [without diminution to their perſonal rights.]</p>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>That thoſe words were not intended to extend to any part of the Revenues that have come or ſhall be<g ref="char:EOLhyphen"/>come due before the ſettlement ſo as to invalid or queſtion any diſpoſure thereof made by the Houſes of Parliament, or by authority derived from them.</p>
+                  <p>To the ſecond Quere upon the ſame head concer<g ref="char:EOLhyphen"/>ning the extent of theſe words [without further limi<g ref="char:EOLhyphen"/>tation to the exerciſe of the Royall power]</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolved.</head>
+                  <p>That theſe words are intended only as excluſive to any farther new limitations (not to any that have been made heretofore by the Lawes of the Land.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Putney,</hi> 
+                        <date>16. <hi>Sept.</hi> 1647.</date>
+                     </dateline>
+                     <signed>
+                        <hi>By the appointment of his Excellency Sir</hi> Thomas Fairfax, <hi>and the general Councel of the Army.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
